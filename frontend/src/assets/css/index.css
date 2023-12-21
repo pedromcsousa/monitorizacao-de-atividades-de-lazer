@@ -1,0 +1,8 @@
+body {
+  background-color: #16161d;
+}
+
+.hover:hover {
+  cursor: pointer;
+  filter: brightness(0.8);
+}
